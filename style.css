@@ -1,0 +1,112 @@
+body{
+    background-color: rgb(178, 221, 221);
+}
+.header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(4, 4, 70);
+}
+.h1{
+    font-size: 40px;
+}
+.header2{
+    color: aliceblue;
+}
+
+h1,h2,h3,h4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(4, 4, 70);
+}
+
+.kop1{
+    border-style: solid;
+    border-width: 2px;
+    border-color: aliceblue;
+    width: 150px;
+    height: 20px;
+    padding: 10px;
+    color: rgb(4, 4, 70);
+}
+.afbeelding1{
+    margin-left: 900px;
+    position: relative;
+    top: 0px;
+}
+
+.kop2{
+    border-style: solid;
+    border-width: 2px;
+    border-color: aliceblue;
+    width: 210px;
+    height: 20px;
+    padding: 10px;
+    color: rgb(4, 4, 70);
+}
+.afbeelding2{
+
+    margin-left: 900px;
+    position: relative;
+    top: 0px;
+
+}
+.kop3{
+    border-style: solid;
+    border-width: 2px;
+    border-color: aliceblue;
+    width: 180px;
+    height: 20px;
+    padding: 10px;
+    color: rgb(4, 4, 70);
+}
+
+.afbeelding3{
+    margin-left: 900px;
+    position: relative;
+    top: 0px;
+}
+
+.kop4{
+    border-style: solid;
+    border-width: 2px;
+    border-color: aliceblue;
+    width: 200px;
+    height: 20px;
+    padding: 10px;
+    color: rgb(4, 4, 70);
+}
+.afbeelding4{
+    margin-left: 900px;
+    position: relative;
+    top: 0px;
+}
+.kop5{
+    border-style: solid;
+    border-width: 2px;
+    border-color: aliceblue;
+    width: 220px;
+    height: 20px;
+    padding: 10px;
+    color: rgb(4, 4, 70);
+}
+.afbeelding5{
+    margin-left: 900px;
+    position: relative;
+    top: 0px;
+}
+.kop6{
+    border-style: solid;
+    border-width: 2px;
+    border-color: aliceblue;
+    width: 150px;
+    height: 20px;
+    padding: 10px;
+    color: rgb(4, 4, 70);
+}
+.afbeelding6{
+    margin-left: 900px;
+    position: relative;
+    top: 0px; 
+}
